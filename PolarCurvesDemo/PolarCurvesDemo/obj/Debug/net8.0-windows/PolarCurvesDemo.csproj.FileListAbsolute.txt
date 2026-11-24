@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\курсуха\PolarCurvesDemo\PolarCurvesDemo\obj\Debug\net8.0-windows\PolarCurvesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\курсуха\PolarCurvesDemo\PolarCurvesDemo\obj\Debug\net8.0-windows\PolarCurvesDemo.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\курсуха\PolarCurvesDemo\PolarCurvesDemo\obj\Debug\net8.0-windows\PolarCurvesDemo.AssemblyInfo.cs
+C:\Users\Asus\Desktop\курсуха\PolarCurvesDemo\PolarCurvesDemo\obj\Debug\net8.0-windows\PolarCurvesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\курсуха\PolarCurvesDemo\PolarCurvesDemo\bin\Debug\net8.0-windows\PolarCurvesDemo.exe
+C:\Users\Asus\Desktop\курсуха\PolarCurvesDemo\PolarCurvesDemo\bin\Debug\net8.0-windows\PolarCurvesDemo.deps.json
+C:\Users\Asus\Desktop\курсуха\PolarCurvesDemo\PolarCurvesDemo\bin\Debug\net8.0-windows\PolarCurvesDemo.runtimeconfig.json
+C:\Users\Asus\Desktop\курсуха\PolarCurvesDemo\PolarCurvesDemo\bin\Debug\net8.0-windows\PolarCurvesDemo.dll
+C:\Users\Asus\Desktop\курсуха\PolarCurvesDemo\PolarCurvesDemo\bin\Debug\net8.0-windows\PolarCurvesDemo.pdb
+C:\Users\Asus\Desktop\курсуха\PolarCurvesDemo\PolarCurvesDemo\obj\Debug\net8.0-windows\PolarCurvesDemo.dll
+C:\Users\Asus\Desktop\курсуха\PolarCurvesDemo\PolarCurvesDemo\obj\Debug\net8.0-windows\refint\PolarCurvesDemo.dll
+C:\Users\Asus\Desktop\курсуха\PolarCurvesDemo\PolarCurvesDemo\obj\Debug\net8.0-windows\PolarCurvesDemo.pdb
+C:\Users\Asus\Desktop\курсуха\PolarCurvesDemo\PolarCurvesDemo\obj\Debug\net8.0-windows\PolarCurvesDemo.genruntimeconfig.cache
+C:\Users\Asus\Desktop\курсуха\PolarCurvesDemo\PolarCurvesDemo\obj\Debug\net8.0-windows\ref\PolarCurvesDemo.dll
